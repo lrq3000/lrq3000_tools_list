@@ -21,5 +21,7 @@ A non-exhaustive list of open-source tools I use very frequently:
 * [MarkDownload](https://github.com/deathau/markdownload), to save webpages content as markdown files - can be used as a Web Clipper for MarkText/Zim Desktop Wiki.
 * [Copy-As-Markdown](https://github.com/yorkxin/copy-as-markdown/), to save list of tabs as a list of markdown links.
 * [Automa](https://github.com/AutomaApp/automa), automated scaper using visual block programming.
-
+* [Tabli](https://github.com/antonycourtney/tabli) to quickly sift through tabs.
+* The Great Suspender to save memory and still have lots of tabs opened. The original was overtaken by a malicious actor, hence community forks are advised instead, such as [The Marvellous Suspender](https://github.com/gioxx/MarvellousSuspender) or [The Great Suspender notrack](https://github.com/aciidic/thegreatsuspender-notrack).
+* Session Buddy to backup tabs or stash them away for later.
 

@@ -14,7 +14,7 @@ A non-exhaustive list of open-source tools I use very frequently:
 * Super Productivity and SuperProductivityAndroid for advanced ToDo lists managements with project management and timeboxing, which works on both desktop, web and mobile (Android, iOS). Can be synchronized via SyncThing.
 
 ## Backup
-* SyncThing
+* SyncThing, alternative to cloud services such as DropBox and Google Photos, can synchronize files of arbitrary size between devices, and auto-backup photos from phone to computers. The server does not even need to be on all the time, it can just be switched on from time to time and SyncThing will synchronize when both devices are online. A little known fact is that SyncThing implements a LOT of [transfer optimizations](https://data.syncthing.net/) so that it is very sparse and uses as little connection as possible to synchronize files!
 * FreeFileSync
 
 ## Chrome extensions

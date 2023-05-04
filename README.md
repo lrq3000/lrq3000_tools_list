@@ -4,7 +4,7 @@ A non-exhaustive list of open-source tools I use very frequently:
 ## Note taking
 * Zim Desktop Wiki, alternative to Evernote for note taking with hybrid WYSIWYG interface and live zim markup support (but lacks proper support for citations). Can copy/export to Markdown, HTML, etc.
 * SyncThing, to synchronize notes and backups with E2EE encryption. Works particularly well with a plaintext markup note taking workflow (eg, synchronize zim/markdown notes between Zim Desktop Wiki and MarkText and Markor). Use SyncTrayzor on Windows and Syncthing-fork on Android.
-* Markor, mobile Markdown/Zim/AsciiDoc editor and reader, on Android, with syntax highlighting and separated view mode to render the document. Very ergonomic, very well designed.
+* Markor, mobile Markdown/Zim/AsciiDoc editor and reader, on Android, with syntax highlighting and separated view mode to render the document. Very ergonomic, very well designed. Hopefully future support for MyST.
 * MarkText, a WYSIWYG desktop Markdown editor.
 
 ## Productivity
